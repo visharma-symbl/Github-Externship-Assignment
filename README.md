@@ -46,7 +46,7 @@ The same equation, another missing digit.
 
 :three:
 ```
-Equation: 42 * ?7 + 2 = 1974
+Equation: 42 * ?7 + 2 = 1976
 
 Returns: 4
 
@@ -55,7 +55,7 @@ And again the same equation.
 
 :four:
 ```
-Equation: 42 * ?47 + 2 = 1974
+Equation: 42 * ?47 + 2 = 1976
 
 Returns: -1
 
