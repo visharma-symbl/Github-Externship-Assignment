@@ -68,5 +68,5 @@ Equation: 2 * 12? + 2 = 247
 
 Returns: -1
 
-Two times something will never be 247, so this test case has no solution either.
+Two times something + 2 will never be 247, so this test case has no solution either.
 ```
