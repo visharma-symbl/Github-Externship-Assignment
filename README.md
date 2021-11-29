@@ -1,4 +1,4 @@
-# Github-Externship-Assignment
+# Github Externship Assignment
 
 ## Problem statement
 
