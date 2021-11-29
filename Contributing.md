@@ -1,17 +1,26 @@
-## Contributing
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to Github Externship Programme by Symbl.ai.
 
 
 ## Github Externship Assignment
 
-Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, for us to avoid merge conflicts use the git command line
+Please follow the below steps to solve the assignment. 
 
-    git pull upstream master
+-  Read the [problem statement](https://github.com/visharma-symbl/Github-Externship-Assignment/blob/main/README.md) carefully.
+-  Follow the [developers guide](#developers-guide) to setup the repository on your machine.
+-  Open [Solution.js](https://github.com/visharma-symbl/Github-Externship-Assignment/blob/main/Solution.js) file and implement your solution.
+-  Test your solution locally.
+-  Once tested, commit the solution and raise a PR against `master` branch of [base](https://github.com/visharma-symbl/Github-Externship-Assignment) repository.
 
-# Developers guide.
+
+## Developers Guide
 
 This process here should be able to guide you on how to contribute effectively to this project, follow the steps below. You should not be new to the git workflow process however if you still are, the guide should still be able to help you through the process.
+
+> Please before you push your codes to the repository make sure you pull from the repository, so the changes that have been made can be reflected on your local machine, for us to avoid merge conflicts use the git command line
+
+    git pull upstream master
 
 ### Master is the default branch.
 
